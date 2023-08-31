@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">Student , Passionate Web developer , Web 3 Enthusiast</h3>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/darkbits018/count.svg?"  />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkbits018&label=Profile%20views&color=0e75b6&style=flat" alt="darkbits018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkbits018" alt="darkbits018" /></a> </p>
