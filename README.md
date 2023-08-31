@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **abhaygp18@gmail.com**
 
-- 📄 Know about my experiences [https://abhaygp.me/](abhaygp.me)
+- 📄 Know about my experiences [abhaygp.me](https://abhaygp.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
