@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/united_emotion" target="blank"><img src="https://img.shields.io/twitter/follow/united_emotion?logo=twitter&style=for-the-badge" alt="united_emotion" /></a> </p>
 
+[![An image of @holygrimm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holygrimm)](https://holopin.io/@holygrimm)
+
 - 🌱 I’m currently learning **Flask, Implementing tensorflow and other Deep Learning models**
 
 - 👯 I’m looking to collaborate on [Open Source Programming Blog](https://github.com/Grimm-s-Alchemy-Chamber/hackers_hive)
