@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkbits018" alt="darkbits018" /></a> </p>
 
+[![An image of @holygrimm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holygrimm)](https://holopin.io/@holygrimm)
+
 <p align="left"> <a href="https://twitter.com/united_emotion" target="blank"><img src="https://img.shields.io/twitter/follow/united_emotion?logo=twitter&style=for-the-badge" alt="united_emotion" /></a> </p>
 
 - 💬 Ask me about **HTML,CSS, JavaScript, C++, Python**
