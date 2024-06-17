@@ -19,7 +19,8 @@
 - Project management
 - Cybersecurity Specialization
 
-💬 Ask me about Web Development, Flutter, Flask<br>📫 How to reach me abhaygp18.dev@gmail.com<br>👨‍💻 All of my projects are available at I'll add soon 😅
+💬 Ask me about Web Development, Flutter, Flask<br>📫 How to reach me abhaygp18.dev@gmail.com<br>👨‍💻 All of my projects are available at I'll add soon 😅 <br>
+🗃️ My [Resume](./assets/Abhay%20Resume%20final.pdf)
 
 
 ## 🌐 Socials:
