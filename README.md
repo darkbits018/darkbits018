@@ -9,6 +9,9 @@
 [![An image of @holygrimm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holygrimm)](https://holopin.io/@holygrimm)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # 💫 About Me:
 🔭 I’m currently working on My portfolio, 0xCertify : Blockchain-based Certificate Generation and Validation platform<br>👯 I’m looking to collaborate on Upcoming Hacktoberfest Event 2024<br>🤝 I’m looking for help with a Learning Management System project<br>
 🌱 I’m currently learning
