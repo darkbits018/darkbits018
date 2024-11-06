@@ -10,15 +10,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 186.3 kB Used in GitHub's Storage 
- > 
-> 🏆 96 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -53,14 +51,14 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ███████████████████████░░   91.19 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   1 hr 24 mins        ███████████████████████░░   90.16 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 19 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -80,7 +78,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2024 18:44:05 UTC
+ Last Updated on 06/11/2024 18:43:59 UTC
 <!--END_SECTION:waka-->
 
 # 💫 About Me:
