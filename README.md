@@ -12,11 +12,11 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on My portfolio, 0xCertify : Blockchain-based Certificate Generation and Validation platform<br>👯 I’m looking to collaborate on Upcoming Hacktoberfest Event 2024<br>🤝 I’m looking for help with a Learning Management System project<br>
+🔭 I’m currently working on My portfolio, Some AI/ML Projects <br>👯 I’m looking to collaborate on Hacktoberfest Event 2025 (Goal is to build opensource blog platform for no-code/low-code contributions)<br>🤝 I’m looking for help with a opensource blog platform for no-code/low-code contributions<br>
 🌱 I’m currently learning
 - React Js
-- Next Js
-- Python
+- Postgresql
+- Python for AI/ML
 - Firebase integrations
 - Project management
 - Cybersecurity Specialization
