@@ -36,13 +36,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 186.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 76 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -77,14 +79,14 @@ Sunday                   19 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 28 mins       ██████████████████████░░░   89.88 % 
-Requirements.txt         13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Python                   7 hrs 33 mins       ██████████████████████░░░   89.81 % 
+GitIgnore file           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Requirements.txt         13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 58 mins       █████████████████████████   100.00 % 
+PyCharm                  8 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -104,7 +106,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 18:43:38 UTC
+ Last Updated on 09/11/2024 18:40:42 UTC
 <!--END_SECTION:waka-->
 
 
