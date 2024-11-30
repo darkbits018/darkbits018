@@ -36,13 +36,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 101 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -77,13 +79,13 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     1 hr 19 mins        ███████████████░░░░░░░░░░   58.21 % 
-Python                   57 mins             ██████████░░░░░░░░░░░░░░░   41.78 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 37 mins        █████████████░░░░░░░░░░░░   53.22 % 
+YAML                     1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.77 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 17 mins       █████████████████████████   100.00 % 
+PyCharm                  3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -103,7 +105,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:45:33 UTC
+ Last Updated on 30/11/2024 18:44:03 UTC
 <!--END_SECTION:waka-->
 
 
