@@ -36,13 +36,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 101 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -77,13 +79,15 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 37 mins        █████████████░░░░░░░░░░░░   53.22 % 
-YAML                     1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.77 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+YAML                     3 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.13 % 
+Python                   2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.48 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 3 mins        █████████████████████████   100.00 % 
+PyCharm                  5 hrs 40 mins       █████████████████████░░░░   84.69 % 
+VS Code                  1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -103,7 +107,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2024 18:47:19 UTC
+ Last Updated on 03/12/2024 18:46:05 UTC
 <!--END_SECTION:waka-->
 
 
