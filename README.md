@@ -108,6 +108,8 @@ C++                      2 repos             █░░░░░░░░░░�
  Last Updated on 11/12/2024 18:48:16 UTC
 <!--END_SECTION:waka-->
 
+<figure><embed src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg"></embed></figure>
+
 
 
 ### ✍️ Random Dev Quote
