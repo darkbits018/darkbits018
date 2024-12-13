@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
-<h3 align="center">Student , Passionate Web developer , Web 3 Enthusiast</h3>
+<h3 align="center">Aspiring Backend Engineer | AI/ML Enthusiast | Passionate About Cloud, Innovation, Continuous Growth, and Building an Open-Source Tools Ecosystem</h3>
 
 [![](https://visitcount.itsvg.in/api?id=darkbits018&icon=1&color=0)](https://visitcount.itsvg.in)
 
