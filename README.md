@@ -36,13 +36,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 121 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -77,15 +79,15 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
-JavaScript               1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-YAML                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-HTML                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Python                   2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.51 % 
+JavaScript               1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+HTML                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 42 mins       ███████████████░░░░░░░░░░   58.09 % 
-VS Code                  3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.91 % 
+PyCharm                  4 hrs 13 mins       █████████████░░░░░░░░░░░░   53.10 % 
+VS Code                  3 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.90 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -105,7 +107,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2024 18:47:06 UTC
+ Last Updated on 14/12/2024 18:44:28 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
