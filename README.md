@@ -44,8 +44,6 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 64 Public Repositories 
@@ -107,7 +105,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2024 18:44:28 UTC
+ Last Updated on 15/12/2024 18:44:23 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
