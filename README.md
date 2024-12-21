@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
@@ -77,15 +77,15 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 27 mins       █████████████████░░░░░░░░   67.54 % 
-Text                     2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   7 hrs 11 mins       ███████████████████░░░░░░   74.75 % 
+Text                     2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 13 mins       ████████████████████████░   96.42 % 
-VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+PyCharm                  9 hrs 33 mins       █████████████████████████   99.46 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -105,7 +105,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 18:43:33 UTC
+ Last Updated on 21/12/2024 18:41:01 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
