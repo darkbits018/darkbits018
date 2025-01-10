@@ -36,11 +36,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2046%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 19 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -48,6 +52,44 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+🌆 Daytime                90 commits          █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌃 Evening                96 commits          ██████████░░░░░░░░░░░░░░░   39.34 % 
+🌙 Night                  27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Tuesday                  46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Wednesday                13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Thursday                 53 commits          █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Friday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 45 commits          █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               15 hrs 1 min        ███████████████░░░░░░░░░░   58.56 % 
+Python                   7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+Text                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 11 mins      ████████████████░░░░░░░░░   63.09 % 
+PyCharm                  9 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.91 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -65,7 +107,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:45:30 UTC
+ Last Updated on 10/01/2025 18:44:29 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
