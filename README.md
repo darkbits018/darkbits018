@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -77,15 +77,15 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               11 hrs 52 mins      █████████████░░░░░░░░░░░░   51.87 % 
-Python                   7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
-Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               9 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
+Python                   8 hrs               █████████░░░░░░░░░░░░░░░░   37.01 % 
+Text                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 50 mins      ██████████████░░░░░░░░░░░   56.10 % 
-PyCharm                  10 hrs 3 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
+PyCharm                  10 hrs 54 mins      █████████████░░░░░░░░░░░░   50.40 % 
+VS Code                  10 hrs 44 mins      ████████████░░░░░░░░░░░░░   49.60 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -105,7 +105,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2025 18:41:52 UTC
+ Last Updated on 12/01/2025 18:41:39 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
