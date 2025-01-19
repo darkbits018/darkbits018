@@ -36,9 +36,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,16 +77,16 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 4 mins        █████████████░░░░░░░░░░░░   52.22 % 
-TypeScript               3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-.env file                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Python                   7 hrs 7 mins        █████████████░░░░░░░░░░░░   53.69 % 
+TypeScript               3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+.env file                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 4 mins        █████████████████░░░░░░░░   67.10 % 
-Cursor                   3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-VS Code                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+PyCharm                  8 hrs 49 mins       █████████████████░░░░░░░░   66.46 % 
+Cursor                   3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+VS Code                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -106,7 +106,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2025 18:40:47 UTC
+ Last Updated on 19/01/2025 18:40:30 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
