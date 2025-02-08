@@ -36,15 +36,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,12 +77,12 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   20 mins             ███████████████████░░░░░░   76.91 % 
-Bash                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+Python                   1 hr 27 mins        ████████████████████████░   97.80 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-PyCharm                  20 mins             ███████████████████░░░░░░   76.91 % 
-VS Code                  6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+PyCharm                  1 hr 22 mins        ███████████████████████░░   91.76 % 
+VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -104,7 +102,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2025 18:43:51 UTC
+ Last Updated on 08/02/2025 18:40:26 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
