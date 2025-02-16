@@ -36,6 +36,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -48,6 +50,44 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+🌆 Daytime                104 commits         ██████████░░░░░░░░░░░░░░░   38.38 % 
+🌃 Evening                101 commits         █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌙 Night                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Tuesday                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Wednesday                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Thursday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Saturday                 50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   3 hrs 6 mins        ████████████████░░░░░░░░░   65.85 % 
+Text                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🔥 Editors: 
+PyCharm                  4 hrs 15 mins       ███████████████████████░░   90.30 % 
+VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -65,7 +105,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 18:40:26 UTC
+ Last Updated on 16/02/2025 18:41:20 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
