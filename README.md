@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,15 +77,15 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 33 mins       ██████████████████████░░░   87.29 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Shell Script             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   1 hr 25 mins        ██████████████████░░░░░░░   70.58 % 
+Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 52 mins       █████████████████████████   98.28 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+PyCharm                  1 hr 33 mins        ███████████████████░░░░░░   77.05 % 
+VS Code                  27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -105,7 +105,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 18:45:50 UTC
+ Last Updated on 25/02/2025 18:45:47 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
