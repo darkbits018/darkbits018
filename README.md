@@ -36,9 +36,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,15 +77,15 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 25 mins        ██████████████████░░░░░░░   70.58 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   1 hr 42 mins        █████████████░░░░░░░░░░░░   52.03 % 
+Other                    1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   36.62 % 
+JSON-lines               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 33 mins        ███████████████████░░░░░░   77.05 % 
-VS Code                  27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+PyCharm                  2 hrs 1 min         ███████████████░░░░░░░░░░   61.71 % 
+VS Code                  1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   38.29 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -105,7 +105,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2025 18:45:47 UTC
+ Last Updated on 26/02/2025 18:45:57 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
