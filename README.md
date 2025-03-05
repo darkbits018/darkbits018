@@ -36,13 +36,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -77,13 +79,12 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    47 mins             █████████████░░░░░░░░░░░░   50.24 % 
-Python                   35 mins             █████████░░░░░░░░░░░░░░░░   37.74 % 
-JSON-lines               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Python                   28 mins             █████████████████████████   99.97 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr                ████████████████░░░░░░░░░   64.39 % 
-PyCharm                  33 mins             █████████░░░░░░░░░░░░░░░░   35.61 % 
+PyCharm                  15 mins             ██████████████░░░░░░░░░░░   54.09 % 
+VS Code                  13 mins             ███████████░░░░░░░░░░░░░░   45.91 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -103,7 +104,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2025 18:46:37 UTC
+ Last Updated on 05/03/2025 18:47:11 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
