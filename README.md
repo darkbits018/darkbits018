@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,15 +77,14 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 6 mins        ████████████████████░░░░░   80.30 % 
-.env file                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Python                   10 hrs 35 mins      ██████████████████████░░░   86.33 % 
+.env file                48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 25 mins       ████████████████████████░   97.49 % 
-VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+PyCharm                  12 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -105,7 +104,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darkbits018/darkbits018/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2025 18:46:36 UTC
+ Last Updated on 14/03/2025 18:45:12 UTC
 <!--END_SECTION:waka-->
 
 [![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/e1c111b7-31db-48a0-a86b-653130ccd941.svg)
