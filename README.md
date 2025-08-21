@@ -101,7 +101,7 @@
 
 ## My Coding Activity 📊
 
-![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/970f6f8d-9366-4074-a98e-948c602ae3e4.png)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2011%20mins-blue)
