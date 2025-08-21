@@ -48,7 +48,14 @@
 
 🎭 **Chaotic Automation** – If it *shouldn’t* exist but sounds hilarious and borderline useful, count me in.
 
-
+$.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/970f6f8d-9366-4074-a98e-948c602ae3e4.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
 
 
 
