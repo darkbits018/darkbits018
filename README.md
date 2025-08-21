@@ -48,14 +48,6 @@
 
 🎭 **Chaotic Automation** – If it *shouldn’t* exist but sounds hilarious and borderline useful, count me in.
 
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/970f6f8d-9366-4074-a98e-948c602ae3e4.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
 
 
 
@@ -107,6 +99,9 @@ $.ajax({
 ![GitHub Stats](https://streak-stats.demolab.com?user=darkbits018&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+## My Coding Activity 📊
+
+![WakaTime Stats](https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/970f6f8d-9366-4074-a98e-948c602ae3e4.png)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2011%20mins-blue)
