@@ -1,19 +1,20 @@
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Backend+Dev+%26+AI%2FML+Tinkerer.;Solving+non-existent+problems+with+over-engineered+solutions.;Making+Python+do+things+it+probably+shouldn%E2%80%99t.)](https://git.io/typing-svg)
+<h1>Abhay</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Dev+%26+AI%2FML+Tinkerer.;Solving+non-existent+problems+with+over-engineered+solutions.;Making+Python+do+things+it+probably+shouldn%E2%80%99t.)](https://git.io/typing-svg)
+
+
+</div>
+
 
 <!-- ![Banner](assets/banner.svg)-->
 
 <!--[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=o70l6egll2fq63dkynopy2kxj&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=o70l6egll2fq63dkynopy2kxj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]-->
 
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=o70l6egll2fq63dkynopy2kxj&unique={true|1|on|yes})-->
 
 
-[![An image of @holygrimm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holygrimm)](https://holopin.io/@holygrimm)
-
-
-
-
-# 💫 About Me:
 🔥 Backend Dev & AI/ML Tinkerer | Solving non-existent problems with over-engineered solutions.<br>
 🤖 Training LLMs, wrangling data, and making Python do things it probably shouldn’t.<br>
 🔭 I’m currently working on My portfolio, Some AI/ML Projects <br>👯 I’m looking to collaborate on Hacktoberfest Event 2025 (Goal is to build opensource blog platform for no-code/low-code contributions)<br>🤝 I’m looking for help with a opensource blog platform for no-code/low-code contributions<br>
@@ -52,7 +53,7 @@
 
 🎭 **Chaotic Automation** – If it *shouldn’t* exist but sounds hilarious and borderline useful, count me in.
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=o70l6egll2fq63dkynopy2kxj&unique={true|1|on|yes})
 
 
 ## 🌐 Socials:
@@ -104,6 +105,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## My Coding Activity 📊
+
+[![An image of @holygrimm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holygrimm)](https://holopin.io/@holygrimm)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
