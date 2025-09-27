@@ -3,9 +3,10 @@
 
 <!-- ![Banner](assets/banner.svg)-->
 
-[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=o70l6egll2fq63dkynopy2kxj&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=o70l6egll2fq63dkynopy2kxj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]
+<!--[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=o70l6egll2fq63dkynopy2kxj&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=o70l6egll2fq63dkynopy2kxj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]-->
 
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=o70l6egll2fq63dkynopy2kxj&unique={true|1|on|yes})-->
+
 
 [![An image of @holygrimm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holygrimm)](https://holopin.io/@holygrimm)
 
