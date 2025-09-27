@@ -13,6 +13,8 @@
 
 <!--[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=o70l6egll2fq63dkynopy2kxj&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=o70l6egll2fq63dkynopy2kxj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]-->
 
+[![An image of @holygrimm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holygrimm)](https://holopin.io/@holygrimm)
+
 
 
 🔥 Backend Dev & AI/ML Tinkerer | Solving non-existent problems with over-engineered solutions.<br>
@@ -106,7 +108,6 @@
 
 ## My Coding Activity 📊
 
-[![An image of @holygrimm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/holygrimm)](https://holopin.io/@holygrimm)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
