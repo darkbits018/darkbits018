@@ -96,7 +96,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=darkbits018&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkbits018&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://streak-stats.demolab.com?user=darkbits018&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=darkbits018&theme=tokyonight-duo&short_numbers=true)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkbits018&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## My Coding Activity 📊
