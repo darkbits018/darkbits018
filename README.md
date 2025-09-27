@@ -1,6 +1,7 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Backend+Dev+%26+AI%2FML+Tinkerer.;Solving+non-existent+problems+with+over-engineered+solutions.;Making+Python+do+things+it+probably+shouldn%E2%80%99t.)](https://git.io/typing-svg)
 
-![Banner](assets/banner.svg)
+<!-- ![Banner](assets/banner.svg)-->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=o70l6egll2fq63dkynopy2kxj&unique={true|1|on|yes})
 
