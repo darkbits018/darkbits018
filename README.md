@@ -112,7 +112,7 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -155,13 +155,19 @@ Sunday                   50 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     32 mins             █████████░░░░░░░░░░░░░░░░   34.13 % 
+Bash                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ecostance-rag-docker     55 mins             ██████████████░░░░░░░░░░░   57.70 % 
+ecostance-agent-v1       38 mins             ██████████░░░░░░░░░░░░░░░   40.48 % 
+EcoStanceAgentV1         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 **I Mostly Code in Python** 
@@ -177,7 +183,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2026 19:00:20 UTC
+ Last Updated on 17/01/2026 18:55:03 UTC
 <!--END_SECTION:waka-->
 
 
