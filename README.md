@@ -112,7 +112,7 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -155,13 +155,20 @@ Sunday                   50 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    58 mins             ███████████░░░░░░░░░░░░░░   45.62 % 
+TypeScript               39 mins             ████████░░░░░░░░░░░░░░░░░   31.12 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Warp                     1 hr 8 mins         █████████████░░░░░░░░░░░░   53.11 % 
+VS Code                  1 hr                ████████████░░░░░░░░░░░░░   46.89 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 8 mins         █████████████░░░░░░░░░░░░   53.11 % 
+ecostance-clone---sustain33 mins             ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+dashboard_comps_not_visib26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 ```
 
 **I Mostly Code in Python** 
@@ -177,7 +184,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 19:18:08 UTC
+ Last Updated on 06/02/2026 19:17:51 UTC
 <!--END_SECTION:waka-->
 
 
