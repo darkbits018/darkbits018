@@ -112,7 +112,7 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -155,13 +155,17 @@ Sunday                   50 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    48 mins             █████████████████████████   100.00 % 
+Other                    48 mins             █████████████░░░░░░░░░░░░   52.70 % 
+Python                   39 mins             ███████████░░░░░░░░░░░░░░   43.21 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-Warp                     48 mins             █████████████████████████   100.00 % 
+Warp                     48 mins             █████████████░░░░░░░░░░░░   52.70 % 
+VS Code                  43 mins             ████████████░░░░░░░░░░░░░   47.30 % 
 
 🐱‍💻 Projects: 
-Unknown Project          48 mins             █████████████████████████   100.00 % 
+Unknown Project          48 mins             █████████████░░░░░░░░░░░░   52.70 % 
+sc-ai-agent-docker       43 mins             ████████████░░░░░░░░░░░░░   47.30 % 
 ```
 
 **I Mostly Code in Python** 
@@ -177,7 +181,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 19:14:29 UTC
+ Last Updated on 07/03/2026 19:01:58 UTC
 <!--END_SECTION:waka-->
 
 
