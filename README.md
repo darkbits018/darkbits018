@@ -112,8 +112,6 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-837%20hrs%2058%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -141,7 +139,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:20:33 UTC
+ Last Updated on 15/05/2026 20:05:17 UTC
 <!--END_SECTION:waka-->
 
 
