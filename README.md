@@ -112,7 +112,9 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2037%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -126,6 +128,50 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+🌆 Daytime                8256 commits        █████████████████░░░░░░░░   66.63 % 
+🌃 Evening                2229 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+🌙 Night                  515 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1965 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Tuesday                  2750 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Wednesday                3495 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Thursday                 1405 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Friday                   2281 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Saturday                 420 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Sunday                   75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
+TypeScript               2 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Bash                     1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 28 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Rightrole-new            7 hrs 8 mins        ███████████████████░░░░░░   75.35 % 
+ecostance-rag-docker     2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Rightrole                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+gyan-frontend            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Gyan AI                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -139,7 +185,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:03:49 UTC
+ Last Updated on 25/07/2026 19:50:20 UTC
 <!--END_SECTION:waka-->
 
 
