@@ -112,15 +112,17 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2045%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 448 Contributions in the Year 2026
+> 🏆 449 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -131,21 +133,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-🌆 Daytime                8256 commits        █████████████████░░░░░░░░   66.63 % 
-🌃 Evening                2229 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-🌙 Night                  515 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+🌞 Morning                1391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+🌆 Daytime                8270 commits        █████████████████░░░░░░░░   66.66 % 
+🌃 Evening                2230 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+🌙 Night                  515 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1965 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Tuesday                  2750 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Wednesday                3495 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Thursday                 1405 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Friday                   2281 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Monday                   1973 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Tuesday                  2751 commits        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Wednesday                3496 commits        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Thursday                 1408 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Friday                   2283 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
 Saturday                 420 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Sunday                   75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Sunday                   75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 
 
@@ -172,6 +174,28 @@ gyan-frontend            0 secs              ░░░░░░░░░░░�
 Gyan AI                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 49 mins (93.16%)
+
+✍️ 4,409 lines written by AI, 256 lines written by hand (94.51% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 117 AI Prompts
+
+Kiro                     4,532 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 94.51% of written lines came from AI
+📄 Detailed Prompter — average 1,199 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 5.8% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -185,7 +209,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:50:16 UTC
+ Last Updated on 27/07/2026 20:11:42 UTC
 <!--END_SECTION:waka-->
 
 
