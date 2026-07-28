@@ -112,11 +112,7 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2050%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-217%20hrs%2045%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,72 +126,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-🌆 Daytime                8270 commits        █████████████████░░░░░░░░   66.66 % 
-🌃 Evening                2230 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-🌙 Night                  515 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1973 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Tuesday                  2751 commits        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Wednesday                3496 commits        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Thursday                 1408 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Friday                   2283 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Saturday                 420 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Sunday                   75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   3 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
-TypeScript               2 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
-Bash                     1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 28 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Rightrole-new            7 hrs 8 mins        ███████████████████░░░░░░   75.35 % 
-ecostance-rag-docker     2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Rightrole                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-gyan-frontend            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Gyan AI                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 49 mins (93.16%)
-
-✍️ 4,409 lines written by AI, 256 lines written by hand (94.51% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 117 AI Prompts
-
-Kiro                     4,532 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.51% of written lines came from AI
-📄 Detailed Prompter — average 1,199 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 5.8% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -209,7 +139,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:11:42 UTC
+ Last Updated on 28/07/2026 20:08:16 UTC
 <!--END_SECTION:waka-->
 
 
