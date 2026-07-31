@@ -122,7 +122,7 @@
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 454 Contributions in the Year 2026
+> 🏆 455 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -133,19 +133,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-🌆 Daytime                8273 commits        █████████████████░░░░░░░░   66.60 % 
-🌃 Evening                2242 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-🌙 Night                  515 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+🌞 Morning                1391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+🌆 Daytime                8278 commits        █████████████████░░░░░░░░   66.62 % 
+🌃 Evening                2242 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+🌙 Night                  515 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   1973 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  2751 commits        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Wednesday                3496 commits        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-Thursday                 1423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Friday                   2283 commits        █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Tuesday                  2751 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Wednesday                3496 commits        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Thursday                 1423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Friday                   2288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 Saturday                 420 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 Sunday                   75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
@@ -157,42 +157,44 @@ Sunday                   75 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 22 mins       ███████████████████░░░░░░   75.21 % 
-Bash                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Python                   1 hr 51 mins        ███████████████░░░░░░░░░░   60.43 % 
+Bash                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       ███████████████████████░░   91.23 % 
+Warp                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 
 🐱‍💻 Projects: 
-Rightrole-new            2 hrs 47 mins       ████████████████░░░░░░░░░   62.13 % 
-ecostance-rag-docker     1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   37.50 % 
-gyan-frontend            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Gyan AI                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Rightrole-new            2 hrs 47 mins       ███████████████████████░░   90.61 % 
+Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+gyan-frontend            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Gyan AI                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+ecostance-rag-docker     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 5 mins (91.43%)
+⏱ AI Coding Time: 2 hrs 29 mins (81.12%)
 
-✍️ 3,247 lines written by AI, 69 lines written by hand (97.92% AI-written)
+✍️ 252 lines written by AI, 8 lines written by hand (96.92% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 75 AI Prompts
+🧠 7 AI Sessions, 47 AI Prompts
 
-Kiro                     3,298 lines         █████████████████████████   100.00 % 
+Kiro                     262 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.92% of written lines came from AI
-📄 Detailed Prompter — average 1,241 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 2.71% of changed lines were hand-edited
+🤖 AI-Driven — 96.92% of written lines came from AI
+📄 Detailed Prompter — average 599 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 3.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -208,7 +210,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:08:36 UTC
+ Last Updated on 31/07/2026 20:10:59 UTC
 <!--END_SECTION:waka-->
 
 
