@@ -116,13 +116,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 455 Contributions in the Year 2026
+> 🏆 477 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -133,21 +133,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1391 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-🌆 Daytime                8278 commits        █████████████████░░░░░░░░   66.61 % 
-🌃 Evening                2243 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-🌙 Night                  515 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+🌞 Morning                1461 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+🌆 Daytime                8690 commits        █████████████████░░░░░░░░   66.67 % 
+🌃 Evening                2353 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+🌙 Night                  530 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1973 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  2751 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Wednesday                3496 commits        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Thursday                 1423 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Friday                   2288 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Saturday                 421 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Sunday                   75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Monday                   2128 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Tuesday                  2880 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Wednesday                3637 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+Thursday                 1512 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Friday                   2372 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Saturday                 430 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Sunday                   75 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
@@ -157,41 +157,19 @@ Sunday                   75 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 51 mins        ███████████████░░░░░░░░░░   60.73 % 
-Bash                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Other                    16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       ███████████████████████░░   91.18 % 
-Warp                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Warp                     16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Rightrole-new            2 hrs 47 mins       ███████████████████████░░   91.18 % 
-Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Unknown Project          16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 28 mins (81.0%)
-
-✍️ 252 lines written by AI, 8 lines written by hand (96.92% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 44 AI Prompts
-
-Kiro                     274 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.92% of written lines came from AI
-📄 Detailed Prompter — average 591 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.18% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -207,7 +185,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:49:33 UTC
+ Last Updated on 04/08/2026 20:18:25 UTC
 <!--END_SECTION:waka-->
 
 
