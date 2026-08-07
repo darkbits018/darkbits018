@@ -112,17 +112,13 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2037%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2014%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 494 Contributions in the Year 2026
+> 🏆 504 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -130,48 +126,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-🌆 Daytime                8748 commits        █████████████████░░░░░░░░   66.64 % 
-🌃 Evening                2380 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-🌙 Night                  530 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   2137 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Tuesday                  2847 commits        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Wednesday                3641 commits        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Thursday                 1584 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Friday                   2402 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Saturday                 439 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Sunday                   78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    16 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Warp                     16 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          16 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -185,7 +139,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:15:24 UTC
+ Last Updated on 07/08/2026 00:30:44 UTC
 <!--END_SECTION:waka-->
 
 
