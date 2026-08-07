@@ -112,13 +112,17 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2ad87ec-0dd5-4a82-a8ad-d9d689aedbb4/f26e38af-ae92-4f86-8758-1cb4525ec91e.png" /></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%2014%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 504 Contributions in the Year 2026
+> 🏆 506 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -126,6 +130,48 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1484 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+🌆 Daytime                8798 commits        █████████████████░░░░░░░░   66.68 % 
+🌃 Evening                2383 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+🌙 Night                  530 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   2146 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Tuesday                  2853 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Wednesday                3641 commits        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Thursday                 1627 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Friday                   2410 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Saturday                 440 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Sunday                   78 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -139,7 +185,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:30:44 UTC
+ Last Updated on 07/08/2026 19:36:22 UTC
 <!--END_SECTION:waka-->
 
 
